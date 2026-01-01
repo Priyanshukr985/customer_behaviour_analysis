@@ -1,4 +1,5 @@
-👨🏻‍💻# customer_behaviour_analysis
+👨🏻‍💻 # customer behaviour analysis
+
 data analytics project showcasing customer behavior analysis using python, SQL &amp; Power BI
 
 This project represents a complete,end-to-end data analytics workflow. The project encompasses all critical stages 
@@ -17,5 +18,9 @@ of data analysis, from data preparation and modeling to insight generation, visu
 # Over view of Dashboard
 
 <img width="1163" height="632" alt="image" src="https://github.com/user-attachments/assets/70dc3f2d-73b7-42f6-b653-f3bd2742639a" />
+
+Link : https://github.com/Priyanshukr985/customer_behaviour_analysis/blob/main/customer_behaviour_dashboard.pbix
+
+
 
 
