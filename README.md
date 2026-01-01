@@ -14,6 +14,8 @@ of data analysis, from data preparation and modeling to insight generation, visu
 
 ✅ Report and Presentation: Write a clear project report summarizing the key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-
+# Over view of Dashboard
 
 <img width="1163" height="632" alt="image" src="https://github.com/user-attachments/assets/70dc3f2d-73b7-42f6-b653-f3bd2742639a" />
+
+
